@@ -1,0 +1,6 @@
+C:\Users\27614\Desktop\PRG spaan\Question1_PRG2\Question1_PRG2\bin\Debug\Question1_PRG2.exe.config
+C:\Users\27614\Desktop\PRG spaan\Question1_PRG2\Question1_PRG2\bin\Debug\Question1_PRG2.exe
+C:\Users\27614\Desktop\PRG spaan\Question1_PRG2\Question1_PRG2\bin\Debug\Question1_PRG2.pdb
+C:\Users\27614\Desktop\PRG spaan\Question1_PRG2\Question1_PRG2\obj\Debug\Question1_PRG2.csprojResolveAssemblyReference.cache
+C:\Users\27614\Desktop\PRG spaan\Question1_PRG2\Question1_PRG2\obj\Debug\Question1_PRG2.exe
+C:\Users\27614\Desktop\PRG spaan\Question1_PRG2\Question1_PRG2\obj\Debug\Question1_PRG2.pdb

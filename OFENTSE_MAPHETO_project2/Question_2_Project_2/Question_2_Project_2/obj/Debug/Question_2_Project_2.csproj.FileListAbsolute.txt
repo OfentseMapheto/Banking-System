@@ -1,0 +1,12 @@
+C:\Users\27614\Desktop\PRG spaan\Question_2_Project_2\Question_2_Project_2\bin\Debug\Question_2_Project_2.exe.config
+C:\Users\27614\Desktop\PRG spaan\Question_2_Project_2\Question_2_Project_2\bin\Debug\Question_2_Project_2.exe
+C:\Users\27614\Desktop\PRG spaan\Question_2_Project_2\Question_2_Project_2\bin\Debug\Question_2_Project_2.pdb
+C:\Users\27614\Desktop\PRG spaan\Question_2_Project_2\Question_2_Project_2\obj\Debug\Question_2_Project_2.csprojResolveAssemblyReference.cache
+C:\Users\27614\Desktop\PRG spaan\Question_2_Project_2\Question_2_Project_2\obj\Debug\Question_2_Project_2.exe
+C:\Users\27614\Desktop\PRG spaan\Question_2_Project_2\Question_2_Project_2\obj\Debug\Question_2_Project_2.pdb
+C:\Users\27614\Desktop\Question_2_Project_2\Question_2_Project_2\bin\Debug\Question_2_Project_2.exe.config
+C:\Users\27614\Desktop\Question_2_Project_2\Question_2_Project_2\obj\Debug\Question_2_Project_2.exe
+C:\Users\27614\Desktop\Question_2_Project_2\Question_2_Project_2\obj\Debug\Question_2_Project_2.pdb
+C:\Users\27614\Desktop\Question_2_Project_2\Question_2_Project_2\bin\Debug\Question_2_Project_2.exe
+C:\Users\27614\Desktop\Question_2_Project_2\Question_2_Project_2\bin\Debug\Question_2_Project_2.pdb
+C:\Users\27614\Desktop\Question_2_Project_2\Question_2_Project_2\obj\Debug\Question_2_Project_2.csprojResolveAssemblyReference.cache
